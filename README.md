@@ -2,3 +2,7 @@
 
 
 some text
+
+##local 
+
+open index.html in your browser
